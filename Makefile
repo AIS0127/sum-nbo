@@ -10,3 +10,4 @@ main.o: main.c
 clean:
 	rm -f sum-nbo
 	rm -f *.o
+	rm -f *.bin
